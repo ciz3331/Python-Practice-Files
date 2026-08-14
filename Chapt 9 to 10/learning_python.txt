@@ -1,0 +1,13 @@
+Python chapters and appendices done
+chapter 1-> Getting started
+appendix a-> troubleshooting
+appendix b-> VS code
+appendix c-> Getting help
+chapter 2-> variables and data types
+chapter 3-> introduction to list
+chapter 4-> working with list
+chapter 5-> if statements
+chapter 6-> dictionaries
+chapter 7-> user inputs and while loops
+chapter 8-> functions
+chapter 9-> classes
