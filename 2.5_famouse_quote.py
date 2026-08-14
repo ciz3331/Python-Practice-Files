@@ -1,0 +1,1 @@
+print("Benjamin Franklin once said, \"Time is Gold.\"")

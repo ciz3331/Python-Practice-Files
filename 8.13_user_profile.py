@@ -1,0 +1,19 @@
+# 8-13. User Profile: Start with a copy of user_profile.py from page 148. Build a
+# profile of yourself by calling build_profile(), using your first and last names
+# and three other key-value pairs that describe you.
+
+#user_profile.py:
+def build_profile(first_name, last_name, **kwargs):
+    kwargs['first_name'] = first_name
+    kwargs['last_name'] = last_name
+
+    return kwargs
+
+make_cj = build_profile('Carlo James', 'Justo',
+                        job='Jobless',
+                        sex="Male",
+                        motto="Hmmm"
+                        )
+
+print(make_cj)
+
